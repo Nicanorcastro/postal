@@ -30,12 +30,12 @@
 }
 
 .largeList__link:hover {
-  background:$blue;
+  background:#00adf2;
   color:#fff;
 }
 
 .largeList__link:active {
-  background:darken($blue, 5%);
+  background:darken(#00adf2, 5%);
 }
 
 .largeList__subText {
